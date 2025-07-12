@@ -93,8 +93,6 @@ This appears to be a personal project. If you'd like to contribute:
 
 ## License
 
-*Add your preferred license here*
-
 ---
 
 **Author**: Ajay Kumar  
